@@ -1,0 +1,54 @@
+.table,
+th {
+    font-family: Arial;
+    font-size: 20px;
+    background-color: #adff2f;
+    border-radius: 10px 0px 0px 10px;
+    padding: 20px;
+}
+
+.table,
+td {
+    text-align: center;
+    background-color: #d0f0d0;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.tick {
+    color: #9ace0c;
+    font-size: 30px;
+    background-color: #def3cb;
+}
+
+.head {
+    color: white;
+}
+
+.megabyte {
+    color: #5d5e5c;
+    font-weight: bold;
+    background-color: #def3cb;
+}
+
+.dollar {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: white;
+    color: #9ace0c;
+    text-shadow: 1px 1px 1px #919191;
+    border: none;
+}
+
+.pumb {
+    background-color: white;
+    border: none;
+    padding: 20px;
+    font-weight: thin;
+
+}
